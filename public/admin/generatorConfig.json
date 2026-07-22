@@ -1,0 +1,31 @@
+{
+  "theme": "equipamentos de musculação compactos rogue",
+  "categories": [
+    {
+      "value": "equipamentos-de-muscula-o-compactos-rogue",
+      "label": "Equipamentos de musculação compactos rogue"
+    },
+    {
+      "value": "dicas",
+      "label": "Dicas de Equipamentos de musculação compactos rogue"
+    },
+    {
+      "value": "analises",
+      "label": "Análises e Guias"
+    }
+  ],
+  "images": [
+    {
+      "value": "/recommended-equipamentos-de-muscula-o-compactos-rogue-1.jpg",
+      "label": "Equipamentos de musculação compactos rogue Premium"
+    },
+    {
+      "value": "/recommended-equipamentos-de-muscula-o-compactos-rogue-2.jpg",
+      "label": "Equipamentos de musculação compactos rogue Custo-Benefício"
+    },
+    {
+      "value": "/recommended-equipamentos-de-muscula-o-compactos-rogue-3.jpg",
+      "label": "Melhores Equipamentos de musculação compactos rogue"
+    }
+  ]
+}
